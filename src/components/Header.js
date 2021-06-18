@@ -1,9 +1,9 @@
 function Header() {
     return (
         <div>
-            <nav className="nav">
-                <div className="nav-left">
-                    <a className="brand" href="#">
+            <nav className="">
+                <div className="col-12">
+                    <a className="brand" style={{textAlign:"center",fontSize:"40px"}}>
                         Tablero de Tareas
                     </a>
                 </div>
