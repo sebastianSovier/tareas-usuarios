@@ -1,3 +1,5 @@
+Mi nombre es Sebastian Andres Sovier Moreno.
+
 para ejecutar este proyecto es necesario:
 
 cmd line: npm install
