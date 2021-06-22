@@ -3,7 +3,6 @@ Mi nombre es Sebastian Andres Sovier Moreno.
 # ☝️ Dependencias
 
 * Node js v14.17.0
-* Gradle 6.8.3 (Wrapper incluido)
 
 ## 🚀 Instalación y ejecución
 
